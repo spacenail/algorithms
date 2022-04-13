@@ -57,8 +57,6 @@ public class Notebook implements Comparable<Notebook> {
         } else {
             return comparePriceResult;
         }
-
-
     }
 
 
